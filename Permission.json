@@ -1,6 +1,6 @@
 
 {
-  "chatblink": true,
-  "omegle": true,
-  "opentalk": true
+  "chatblink": false,
+  "omegle": false,
+  "opentalk": false
 }
