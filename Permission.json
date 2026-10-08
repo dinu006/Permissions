@@ -2,5 +2,5 @@
 {
   "chatblink": true,
   "omegle": false,
-  "opentalk": false
+  "opentalk": true
 }
